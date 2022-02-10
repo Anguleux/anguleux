@@ -1,2 +1,2 @@
-# anguleux
-The Anguleux website!
+# Anguleux
+The **Anguleux** website!
